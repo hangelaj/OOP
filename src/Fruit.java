@@ -74,6 +74,6 @@ public class Fruit {
     }
 
     public boolean isDelicious() {
-        return true; // Just for the sake of example
+        return true;
     }
 }
